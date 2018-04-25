@@ -1,0 +1,68 @@
+GET https://api.instagram.com/v1/users/self/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-26T122234.200.json
+
+###
+
+GET var%20xhr%20=%20new%20XMLHttpRequest();%20xhr.open('GET',%20pathContent,%20false);%20xhr.send();%20var%20dataFull%20=JSON.parse(xhr.responseText);?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://api.instagram.com/v1/users/self/media/recent/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff&count=true
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-26T120528.200.json
+
+###
+
+GET https://api.instagram.com/v1/users/self/media/recent/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff&count=
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-26T120454.200.json
+
+###
+
+GET https://api.instagram.com/v1/users/self/media/recent/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-25T100700.200.json
+
+###
+
+GET https://api.instagram.com/v1/users/self/media/recent/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff&access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff&access_token=https://api.instagram.com/v1/users/self/media/recent/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-25T100559.400.json
+
+###
+
+GET https://api.instagram.com/v1/media/1613137440309086873_513059489/comments?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff&access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-25T073848.200.json
+
+###
+
+GET http://localhost/https://api.instagram.com/v1/media/1613137440309086873_513059489/comments?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-25T073823.403.html
+
+###
+
+GET http://localhost:8080/https://api.instagram.com/v1/media/1613137440309086873_513059489/comments?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff
+Accept: */*
+Cache-Control: no-cache
+
+###
+
