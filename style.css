@@ -1,3 +1,66 @@
-#body{
-    background-color:brown;
+#top{
+    background-color: black;
+    min-height: 200px;
+}
+
+#banner {
+    background: url("image/banner2.jpg") no-repeat;
+    background-size: cover;
+    height: 200px;
+    padding: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 670px;
+}
+
+#avatar{
+position: absolute;
+ left: 30%;
+    margin: 0px;
+    top: 50px;
+    height: 100px;
+    width: 50px;
+    border: 2px white;
+}
+
+#mainblock{
+    background-color: #d3d3d3;
+}
+#header{
+    background-color:whitesmoke;
+    height: 70px;
+    padding: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 670px;
+}
+
+#content {
+    background-color: #eaeaea;
+    min-height: 700px;
+    padding: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 670px;
+}
+#intent{
+
+}
+
+#photo{
+
+}
+
+#description{
+
+}
+
+#button{
+
+}
+
+#footer{
+    background-color: #525252;
+    min-height: 70px;
+
 }
