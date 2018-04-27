@@ -13,26 +13,31 @@
     width: 670px;
 }
 
-#avatar{
-position: absolute;
- left: 30%;
+#avatar {
+    position: absolute;
+    left: 30%;
     margin: 0px;
     top: 50px;
-    height: 100px;
-    width: 50px;
-    border: 2px white;
+    min-height: 198px;
+    min-width: 200px;
+    border-style: solid;
+    border-color: whitesmoke;
 }
-
 #mainblock{
     background-color: #d3d3d3;
 }
 #header{
     background-color:whitesmoke;
     height: 70px;
-    padding: 0 auto;
     margin-left: auto;
     margin-right: auto;
     width: 670px;
+    text-align: right;
+    font-size: 18pt;
+    font-family: Arial;
+    box-sizing: border-box;
+    padding-right: 120px;
+    padding-top: 7px;
 }
 
 #content {
@@ -44,7 +49,7 @@ position: absolute;
     width: 670px;
 }
 #intent{
-
+border-style: dashed;
 }
 
 #photo{
