@@ -1,3 +1,51 @@
+GET https://api.instagram.com/v1/users/self/media/recent/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff&count=5&max_id=1726089347310524813_513059489
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-28T110031.200.json
+
+###
+
+GET https://api.instagram.com/v1/users/self/media/recent/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff&count=5&max_id="1726089347310524813_513059489
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-28T105523.200.json
+
+###
+
+GET https://api.instagram.com/v1/users/self/media/recent/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff&count=5&min_id="1726089347310524813_513059489
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-28T104949.200.json
+
+###
+
+GET https://api.instagram.com/v1/users/self/media/recent/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff&count=5&max_id="1726089347310524813_513059489
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-28T104827.200.json
+
+###
+
+GET https://api.instagram.com/v1/users/self/media/recent/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff&count=5&next_url=url
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-28T104704.200.json
+
+###
+
+GET https://api.instagram.com/v1/users/self/media/recent/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff&count=50&next_url=url
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-28T104649.200.json
+
+###
+
 GET https://api.instagram.com/v1/users/self/media/recent/?access_token=513059489.8aae704.a82aca91f55b4dddb850021b9a502eff&count=50&next_url=url
 Accept: */*
 Cache-Control: no-cache
